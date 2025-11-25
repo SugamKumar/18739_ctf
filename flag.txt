@@ -1,1 +1,1 @@
-picoCTF{L1ne4r_fe3dback_1s_n0t_s0_r4nd0m}
+L1ne4r_fe3dback_1s_n0t_s0_r4nd0m

@@ -24,5 +24,5 @@ Download the ciphertext {{url_for("cipher.txt", "here")}} and recover the flag.
 
 ## Hints
 
-- Make sure you understand how the register updates on each step.  
+- Each keystream byte is produced by taking the lowest bit of the register after each update.
 - Check that the bytes you generate line up with the ciphertext length.
